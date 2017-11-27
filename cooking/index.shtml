@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Cooking Website</title>
+		<link rel="stylesheet" href="css/styles.css">
+	</head>
+
+	<body>
+		<div class="page" id = "index-file">
+			<!--#include file="header.html" -->
+			<!--#include file="nav.html" -->
+			<hr >
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<div id = "division">
+				<div id="firstHalf">
+					<article>
+						<h2>Welcome to yadu's cooking website:-</h2>
+						<img src="images/food1.jpg" alt="food1">
+						<img src="images/food2.jpg" alt="food2">
+						<img src="images/food3.jpg" alt="food3">
+						<img src="images/food4.jpg" alt="food4">
+					</article>
+					<section>
+						<h2>About Indian Food:-</h2>
+						<p>
+							Indian cuisine comprises of a wide variety of regional and traditional cuisines native to the Indian subcontinent.
+							Given the range of diversity in soil type, climate, culture, ethnic groups, and occupations, these cuisines vary
+							substantially from each other and use locally available spices, herbs, vegetables, and fruits.
+							Indian food is also heavily influenced by religious, in particular Hindu, and cultural choices and traditions.
+							Also, Middle Eastern and Central Asian influences have occurred on North Indian cuisine from the years of Mughal rule.
+							Indian cuisine is still evolving, as a result of the nation's cultural interactions with other societies
+						</p>
+						<p>
+							Historical incidents such as foreign invasions, trade relations, and colonialism have played a role in introducing certain foods to the country.
+							For instance, potato, a staple of the diet in some regions of India, was brought to India by the Portuguese, who also introduced chillies and breadfruit.
+							Indian cuisine has shaped the history of international relations; the spice trade between India and Europe was the primary catalyst for Europe's Age of Discovery.
+							Spices were bought from India and traded around Europe and Asia.Indian cuisine has influenced other cuisines across the world, especially those from Europe,
+							the Middle East, North Africa, sub-Saharan Africa, Southeast Asia, the British Isles, Fiji, and the Caribbean.
+						</p>
+					</section>
+				</div>
+				<div id="secoundHalf">
+					<strong><em>Search:
+					<input type="text" name="Search">
+					</em></strong>
+					<br>
+					<br>
+					<h1>Latest Recipes:-</h1>
+					<hr>
+					<div id="recipeBox">
+						<a href="besanLadoo.shtml"><img src="images/BesanLaddu.jpg" width="330" height="315" alt="besan ladoo recipe"></a>
+						<h3>Besan Ladoo</h3>
+						<br>
+						<a href="sambhar.shtml"><img src="images/sambhar.jpg" width="330" height="315" alt="sambar recipe"></a>
+						<h3>Sambhar</h3>
+						<br>
+						<a href="kajuKatli.shtml"><img src="images/kajukatli.jpg" width="330" height="315" alt="kaju katli recipe"></a>
+						<h3>Kaju Katli</h3>
+						<br>
+					</div>
+				</div>
+			</div>
+		</div>
+	</body>
+
+</html>

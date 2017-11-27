@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Cooking Website</title>
+		<link rel="stylesheet" href="css/styles.css">
+	</head>
+
+	<body>
+		<!--#include file="header.html" -->
+		<!--#include file="nav.html" -->
+		<hr >
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<div id="side1">
+			<div id="box">
+				<h1>Citrus ShortBread Cookies Recipe</h1>
+
+				<h3>Ingredients(1 cup):</h3>
+				<ul>
+					<li>
+						4 cups all-purpose flour
+					</li>
+					<li>
+						1/4 teaspoon baking powder
+					</li>
+					<li>
+						1/8 teaspoon salt
+					</li>
+					<li>
+						1 cup butter, softened
+					</li>
+					<li>
+						3/4 cup confectioners' sugar
+					</li>
+					<li>
+						2 teaspoons vanilla extract
+					</li>
+					<li>
+						1/2 teaspoon almond extract
+					</li>
+					<li>
+						1 tablespoon grated orange zest, or more to taste
+					</li>
+					<li>
+						2 cups sweetened dried cranberries, chopped
+					</li>
+				</ul>
+				<h1>Instructions: </h1>
+				<br>
+				<ol>
+					<li>
+						Combine flour, baking powder, and salt in a bowl; set aside.
+						Beat the butter and confectioners' sugar with an electric mixer in a large bowl until smooth.
+						Stir in the vanilla and almond extracts and orange zest.
+						Mix in the flour mixture until just incorporated. Fold in the cranberries;
+						mixing just enough to evenly combine.
+					</li>
+					<li>
+						Divide the dough into 2 equal portions, then roll into logs about 7 inches long.
+						Wrap each log in wax paper or plastic wrap, and chill in the refrigerator for at least 4 hours.
+					</li>
+					<li>
+						Preheat an oven to 350 degrees F (175 degrees C).
+					</li>
+					<li>
+						Remove wax paper, and cut the cookie dough into 1/2-inch slices. Arrange the slices on a baking sheet about 1 inch apart.
+					</li>
+					<li>
+						Bake in the preheated oven until firm but not browned, about 10 minutes.
+					</li>
+
+				</ol>
+				<br>
+
+			</div>
+		</div>
+		<div id="secoundHalf1">
+			<strong><em>Search:
+			<input type="text" name="Search">
+			</em></strong>
+			<br>
+			<br>
+			<h1>Latest Recipes:-</h1>
+			<hr>
+			<div id="recipeBox">
+				<a href="besanLadoo.shtml"><img src="images/BesanLaddu.jpg" width="330" height="315" alt="besan ladoo recipe"></a>
+				<h3>Besan Ladoo</h3>
+				<br>
+				<a href="sambhar.shtml"><img src="images/sambhar.jpg" width="330" height="315" alt="sambar recipe"></a>
+				<h3>Sambhar</h3>
+				<br>
+				<a href="kajuKatli.shtml"><img src="images/kajukatli.jpg" width="330" height="315" alt="kaju katli recipe"></a>
+				<h3>Kaju Katli</h3>
+				<br>
+			</div>
+		</div>
+	</body>
+
+</html>

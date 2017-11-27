@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Cooking Website</title>
+		<link rel="stylesheet" href="css/styles.css">
+	</head>
+
+	<body>
+		<div class="page" id = "recipe-file">
+			<!--#include file="header.html" -->
+			<!--#include file="nav.html" -->
+
+			<hr >
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<div id = "division">
+				<div id="firstHalf">
+					<article>
+						<h2>Welcome to yadu's cooking website:-</h2>
+						<img src="images/food1.jpg" alt="food1">
+						<img src="images/food2.jpg" alt="food2">
+						<img src="images/food3.jpg" alt="food3">
+						<img src="images/food4.jpg" alt="food4">
+					</article>
+					<div id ="Allfood">
+						<h1>Main course:-</h1>
+						<hr>
+						<br>
+						<a href="vegKurma.shtml"><img src="vegKurmaPic/pic12.png" width="330" height="315" alt="vegitable kurma"></a>
+						<a href="sambhar.shtml"><img src="images/sambhar.jpg" width="330" height="315" alt="sambar recipe"></a>
+						<a href="meduVada.shtml"><img src="images/Vada.jpg" width="330" height="315" alt="medu vada"></a>
+						<h1>Desserts:-</h1>
+						<hr>
+						<br>
+						<a href="mIlkBurfi.shtml"><img src="images/MIlkBurfi.jpg" width="330" height="315" alt="milk burfi"></a>
+						<a href="kajuKatli.shtml"><img src="images/kajukatli.jpg" width="330" height="315" alt="kaju katli"></a>
+						<a href="besanLadoo.shtml"><img src="images/BesanLaddu.jpg" width="330" height="315" alt="besan ladoo"></a>
+						<h1>Baking:-</h1>
+						<hr>
+						<br>
+						<a href="naan.shtml"><img src="naanPic/pic9.png" width="330" height="315" alt="naan recipe"></a>
+						<a href="sufganiyot.shtml"><img src="images/jelly-donuts.jpg" width="330" height="315" alt="sufganiyot recipe"></a>
+						<a href="citrusShortbreadCookies.shtml"><img src="images/shortbread.jpg" width="330" height="315" alt="citrus short bread cookies"></a>
+
+					</div>
+
+				</div>
+				<div id="secoundHalf">
+					<strong><em>Search:
+					<input type="text" name="Search">
+					</em></strong>
+					<br>
+					<br>
+					<h1>Latest Recipes:-</h1>
+					<hr>
+					<div id="recipeBox">
+						<a href="besanLadoo.shtml"><img src="images/BesanLaddu.jpg" width="330" height="315" alt="besan ladoo recipe"></a>
+						<h3>Besan Ladoo</h3>
+						<br>
+						<a href="sambhar.shtml"><img src="images/sambhar.jpg" width="330" height="315" alt="sambar recipe"></a>
+						<h3>Sambhar</h3>
+						<br>
+						<a href="kajuKatli.shtml"><img src="images/kajukatli.jpg" width="330" height="315" alt="kaju katli recipe"></a>
+						<h3>Kaju Katli</h3>
+						<br>
+					</div>
+				</div>
+			</div>
+		</div>
+	</body>
+
+</html>

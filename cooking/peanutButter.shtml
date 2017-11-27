@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Cooking Website</title>
+		<link rel="stylesheet" href="css/styles.css">
+	</head>
+
+	<body>
+		<!--#include file="header.html" -->
+		<!--#include file="nav.html" -->
+		<hr >
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<div id="side1">
+			<div id="box">
+				<h1>Peanut Butter Bars Recipe</h1>
+
+				<h3>Ingredients(1 cup):</h3>
+				<ul>
+					<li>
+						1 cup butter or margarine, melted
+					</li>
+					<li>
+						2 cups graham cracker crumbs
+					</li>
+					<li>
+						2 cups confectioners' sugar
+					</li>
+					<li>
+						1 cup peanut butter
+					</li>
+					<li>
+						1 1/2 cups semisweet chocolate chips
+					</li>
+					<li>
+						4 tablespoons peanut butter
+					</li>
+				</ul>
+				<h1>Instructions: </h1>
+				<br>
+				<ol>
+					<li>
+						In a medium bowl, mix together the butter or margarine, graham cracker crumbs, confectioners' sugar, and 1 cup peanut butter until well blended.
+						Press evenly into the bottom of an ungreased 9x13 inch pan.
+					</li>
+					<li>
+						In a metal bowl over simmering water, or in the microwave, melt the chocolate chips with the peanut butter, stirring occasionally until smooth.
+						Spread over the prepared crust. Refrigerate for at least one hour before cutting into squares.
+					</li>
+
+				</ol>
+				<br>
+
+			</div>
+		</div>
+		<div id="secoundHalf1">
+			<strong><em>Search:
+			<input type="text" name="Search">
+			</em></strong>
+			<br>
+			<br>
+			<h1>Latest Recipes:-</h1>
+			<hr>
+			<div id="recipeBox">
+				<a href="besanLadoo.shtml"><img src="images/BesanLaddu.jpg" width="330" height="315" alt="besan ladoo recipe"></a>
+				<h3>Besan Ladoo</h3>
+				<br>
+				<a href="sambhar.shtml"><img src="images/sambhar.jpg" width="330" height="315" alt="sambar recipe"></a>
+				<h3>Sambhar</h3>
+				<br>
+				<a href="kajuKatli.shtml"><img src="images/kajukatli.jpg" width="330" height="315" alt="kaju katli recipe"></a>
+				<h3>Kaju Katli</h3>
+				<br>
+			</div>
+		</div>
+	</body>
+
+</html>

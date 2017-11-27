@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Cooking Website</title>
+		<link rel="stylesheet" href="css/styles.css">
+	</head>
+
+	<body>
+		<div class="page" id = "index-file">
+			<!--#include file="header.html" -->
+			<!--#include file="nav.html" -->
+			<hr >
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<div id="side1">
+				<div id="box">
+					<h1>Simple Medu Vada Recipe</h1>
+
+					<h3>Ingredients(1 cup):</h3>
+					<ul>
+						<li>
+							1 cup urad dal
+						</li>
+						<li>
+							salt to taste
+						</li>
+						<li>
+							water as required
+						</li>
+						<li>
+							oil for deep fry
+						</li>
+					</ul>
+					<h3>Spices:</h3>
+					<ul>
+						<li>
+							1/4 tsp pepper corn crushed
+						</li>
+						<li>
+							2 to 3 green chillies
+						</li>
+						<li>
+							chopped coriander leaves
+						</li>
+					</ul>
+					<h1>Instructions: </h1>
+					<br>
+					<ol>
+						<li>
+							Wash dal and soak it with lot of water for at least 5 to 6 hrs.
+						</li>
+						<li>
+							Add it to a mixer grinder jar , sprinkle very little water salt and start grinding.
+						</li>
+						<li>
+							remove the paste from jar and add pepper corn, chopped green chilli, chopped coriander leaves and mix it well.
+						</li>
+						<li>
+							mix it for 2-3 minutes.
+						</li>
+						<li>
+							Heat oil in a deep heavy bottom kadai/pan till hot enough. You can drop a small amount of batter to check if the oil is hot.
+						</li>
+						<li>
+							Dip your fingure in water, take small portion of batter shape to a ball ,slightly flatten with thumb, dip the thumb in water, make a whole in the centre, and drop in the hot oil by gently shaking off the fingers.
+						</li>
+						<li>
+							when the oil becomes hot, put on the flame to medum.
+						</li>
+						<li>
+							when your vada start to turn golden remove from oil and keep it in a tissue paper
+						</li>
+						<li>
+							Do this same procedure till you get ride of paste
+						</li>
+					</ol>
+					<br>
+
+				</div>
+			</div>
+			<div id="secoundHalf1">
+				<strong><em>Search:
+				<input type="text" name="Search">
+				</em></strong>
+				<br>
+				<br>
+				<h1>Latest Recipes:-</h1>
+				<hr>
+				<div id="recipeBox">
+					<a href="besanLadoo.shtml"><img src="images/BesanLaddu.jpg" width="330" height="315" alt="besan ladoo recipe"></a>
+					<h3>Besan Ladoo</h3>
+					<br>
+					<a href="sambhar.shtml"><img src="images/sambhar.jpg" width="330" height="315" alt="sambar recipe"></a>
+					<h3>Sambhar</h3>
+					<br>
+					<a href="kajuKatli.shtml"><img src="images/kajukatli.jpg" width="330" height="315" alt="kaju katli recipe"></a>
+					<h3>Kaju Katli</h3>
+					<br>
+				</div>
+			</div>
+		</div>
+	</body>
+
+</html>

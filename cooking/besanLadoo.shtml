@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Cooking Website</title>
+		<link rel="stylesheet" href="css/styles.css">
+	</head>
+
+	<body>
+		<div class="page" id = "index-file">
+			<!--#include file="header.html" -->
+			<!--#include file="nav.html" -->
+			<hr >
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<div id="side1">
+				<div id="box">
+					<h1>besan ladoo Simple Recipe</h1>
+
+					<h3>Ingredients(1 cup):</h3>
+					<ul>
+						<li>
+							2 cup besan
+						</li>
+						<li>
+							1 cup powdered sugar
+						</li>
+						<li>
+							1/2 to 2/3 cup ghee-add more ghee if needed
+						</li>
+						<li>
+							4 green cardamoms powder
+						</li>
+						<li>
+							1/2 cup dry fruit powder
+						</li>
+					</ul>
+					<h1>Instructions: </h1>
+					<br>
+					<ol>
+						<li>
+							Dry roast the besan in a kadai or pan on low flame for about 11-12mins.
+						</li>
+						<li>
+							Keep on stirring continuously right from the beginning. so that the besan is not burned and so that there is even browning.
+						</li>
+						<li>
+							While roasting the besan, melt the ghee and keep aside.
+						</li>
+						<li>
+							after 11-12 minutes of total roasting time, add the melted ghee and continue rasting the besan for some more 5-6 minutes stirring continuously.
+						</li>
+						<li>
+							the besan would start to give nice fragrance and tart realing ghee.
+						</li>
+						<li>
+							after 3-5 minutes switch off the stove and remove the pan from stove and keep it down.
+						</li>
+						<li>
+							add powdered sugar stir well so that no lumps are formed.
+						</li>
+						<li>
+							add the powdered cardamom and dry fruit powder.
+						</li>
+						<li>
+							oncee you have mixed the besan ladoo mixture well then let it cool down for rom temperature.
+						</li>
+						<li>
+							make small or medium sized besan ladoos and store them in air tight container.
+						</li>
+					</ol>
+					<br>
+
+				</div>
+			</div>
+			<div id="secoundHalf1">
+				<strong><em>Search:
+				<input type="text" name="Search">
+				</em></strong>
+				<br>
+				<br>
+				<h1>Latest Recipes:-</h1>
+				<hr>
+				<div id="recipeBox">
+					<a href="besanLadoo.shtml"><img src="images/BesanLaddu.jpg" width="330" height="315" alt="besan ladoo recipe"></a>
+					<h3>Besan Ladoo</h3>
+					<br>
+					<a href="sambhar.shtml"><img src="images/sambhar.jpg" width="330" height="315" alt="sambar recipe"></a>
+					<h3>Sambhar</h3>
+					<br>
+					<a href="kajuKatli.shtml"><img src="images/kajukatli.jpg" width="330" height="315" alt="kaju katli recipe"></a>
+					<h3>Kaju Katli</h3>
+					<br>
+				</div>
+			</div>
+		</div>
+	</body>
+
+</html>

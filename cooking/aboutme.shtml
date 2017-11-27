@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>AboutMe Website</title>
+		<link rel="stylesheet" href="css/styles.css">
+	</head>
+
+	<body>
+		<div class="page" id = "about-file">
+			<!--#include file="header.html" -->
+			<!--#include file="nav.html" -->
+			<hr >
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<div id = "division">
+				<div id="first">
+					<section>
+						<h2>Welcome to yadu's cooking website:-</h2>
+						<img src="images/yadu1.jpg" height="300" width="400"  alt="a photo of me">
+						<br>
+						<br>
+						<h2>About This Website</h2>
+						<p>
+							In this website I will teach you simple and practical recipes that is authentic indian food in easy form.
+						</p>
+					</section>
+				</div>
+				<div id="secound">
+					<section>
+						<h2>About Me:-</h2>
+						<p>
+							My name is Yadukumari Shanthigrama Ramesh. I was born in Hassan, Karnataka in South India.
+							My mom is an excellent cook and she inspires me. Whenever I taste her food my mind wants
+							to cook it by myself just like my mom. I learned a lot important thing from my mom related
+							to cooking. As a child, I used to help my mom in kitchen. After my education, I got married
+							and I came to US.  After few months in US, I started to learn baking by watching online videos.
+							Then I realized this is a great way to learn new cuisines or new dishes. So, then I decided to
+							create my own website to teach others how to prepare Indian cuisine dishes.
+							I hope it helps young students and others who wants to learn more about Indian cuisine.
+						</p>
+
+					</section>
+				</div>
+				<div id="third">
+					<strong><em>Search:
+					<input type="text" name="Search">
+					</em></strong>
+					<br>
+					<br>
+					<h1>Latest Recipes:-</h1>
+					<hr>
+					<div id="recipeBox">
+						<a href="besanLadoo.shtml"><img src="images/BesanLaddu.jpg" width="330" height="315" alt="besan ladoo recipe"></a>
+						<h3>Besan Ladoo</h3>
+						<br>
+						<a href="sambhar.shtml"><img src="images/sambhar.jpg" width="330" height="315" alt="sambar recipe"></a>
+						<h3>Sambhar</h3>
+						<br>
+						<a href="kajuKatli.shtml"><img src="images/kajukatli.jpg" width="330" height="315" alt="kaju katli recipe"></a>
+						<h3>Kaju Katli</h3>
+						<br>
+					</div>
+				</div>
+			</div>
+
+		</div>
+	</body>
+
+</html>

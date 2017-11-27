@@ -1,0 +1,171 @@
+/*Its used to set the font size and background color of html body */
+body {
+	font-size: 12pt;
+	background-color: rgba(253,64,114,0.2);
+}
+/*It divide my screen to 70% to display images of traditional food and deecription of indian food and it keeps to left side of the screen.*/
+#firstHalf {
+	width: 70%;
+	float: left;
+}
+#first {
+	width: 30%;
+	float: left;
+}
+#secound {
+	width: 30%;
+	float: left;
+}
+#third {
+	width: 28%;
+	float: right;
+}
+/*It is another 30% of the screen it has search tab and latest uploaded video of recipe.*/
+#secoundHalf {
+	width: 28%;
+	float: right;
+}
+#secoundHalf1 {
+	width: 28%;
+	float: right;
+	padding-right: 30px;
+}
+/*It's used to display the website name it set the size, style,color and margin-left*/
+header h2 {
+	font-size: 25pt;
+	font-style: italic;
+	color: Teal;
+	margin-left: 600px;
+}
+/*It's used to set the image of website icon to left side*/
+header img {
+	float: left;
+}
+
+/*It sets the food image height and width */
+article img {
+	height: 150pt;
+	width: 180pt;
+}
+section img {
+	height: 130pt;
+	width: 134pt;
+}
+/*It sets the food image height and width */
+article h2 {
+	color: white;
+}
+section img {
+	border: 1px solid black;
+	background-color: rgba(139,0,38,0.19);
+	padding-bottom: 20px;
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+/*Article container is used to keep all food images inside a box*/
+article {
+	border: 1px solid black;
+	background-color: rgba(139,0,38,0.63);
+	padding-bottom: 20px;
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-left: 30px;
+}
+/*Section container is used to set the description of traditional food .*/
+section p {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 17px;
+	font-weight: inherit;
+	text-align: justify;
+}
+/*It's used to display search box title in bold and italic style*/
+strong {
+	font-size: 18pt;
+}
+/*It used to set the linke color */
+
+/*It used to set the link in image formate to new uploaded food video*/
+#recipeBox {
+	border: 1px solid black;
+	background-color: rgba(76,64,253,0.12);
+	padding-bottom: 20px;
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-left: 30px;
+}
+
+footer {
+	border: 1px solid black;
+	background-color: white;
+	padding-bottom: 10px;
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-left: 30px;
+}
+
+#side1 {
+	width: 50%;
+	float: left;
+	padding-left: 150px;
+}
+#box {
+	float: inherit;
+	border: 1.5px solid black;
+	background-color: white;
+	padding-bottom: 10px;
+	padding-left: 30px;
+	padding-right: 130px;
+	padding-top: 10px;
+}
+footer p {
+	font-size: 20px;
+	font-weight: bold;
+}
+a {
+	font-size: 20px;
+}
+
+#sub-file #subscribe {
+	font-weight: bold;
+}
+#recipe-file #recipe {
+	font-weight: bold;
+}
+#cookingTip-file #ct {
+	font-weight: bold;
+}
+#dessert-file #dessert {
+	font-weight: bold;
+}
+#index-file #home {
+	font-weight: bold;
+}
+
+#contact-file #contact {
+	font-weight: bold;
+}
+
+#about-file #aboutme {
+	font-weight: bold;
+}
+
+.navlink {
+	text-decoration: none;
+}
+
+.navlink .buttons {
+	background: Cornsilk;
+	color: rgba(235,15,15,0.55);
+	font-size: 14pt;
+	font-family: Tahoma;
+	top: 150px;
+	height: 25px;
+	width: 120px;
+	margin: 5px;
+	border-width: 1px;
+	text-align: center;
+	display: inline;
+	border-radius: 10px;
+	padding: 4px;
+}

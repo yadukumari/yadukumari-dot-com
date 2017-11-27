@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Cooking Website</title>
+		<link rel="stylesheet" href="css/styles.css">
+	</head>
+
+	<body>
+		<div class="page" id = "index-file">
+			<!--#include file="header.html" -->
+			<!--#include file="nav.html" -->
+			<hr >
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<div id="side1">
+				<div id="box">
+					<h1>Indan Style Vegetable kurma recipe </h1>
+
+					<h3>Ingredients(1 cup):</h3>
+					<br>
+					<br>
+					<h4>for ground paste:</h4>
+					<ul>
+						<li>
+							3 tablespoon fresh coconut
+						</li>
+						<li>
+							2 tablespoon chopped onion
+						</li>
+						<li>
+							3-4 garlic
+						</li>
+						<li>
+							3 inch ginger
+						</li>
+						<li>
+							1 tablespoon oil
+						</li>
+						<li>
+							3/4 tablespoon coriander powder
+						</li>
+						<li>
+							1/4 tablespoon garam masala
+						</li>
+						<li>
+							fresh coriander leavs
+						</li>
+						<li>
+							1/2 tablespoon poppy seeds
+						</li>
+						<li>
+							1/4 tablespoon sesame seeds
+						</li>
+						<li>
+							1/2 tomato
+						</li>
+					</ul>
+					<br>
+					<h4>vegetables for kurma:</h4>
+					<ul>
+						<li>
+							1 cup of cauliflower
+						</li>
+						<li>
+							3/4 cup of potatoes
+						</li>
+						<li>
+							1/2 cup of green peas
+						</li>
+						<li>
+							1/4 cup of fresh beans
+						</li>
+						<li>
+							1/2 cup of carrots
+						</li>
+						<li>
+							1/4 cup paneer
+						</li>
+					</ul>
+					<h4>ingredients for main thadka:</h4>
+					<ul>
+						<li>
+							3 tablespoon oil
+						</li>
+						<li>
+							2 tablespoon ghee
+						</li>
+						<li>
+							1 anise star
+						</li>
+						<li>
+							1/2 tablespoon geera
+						</li>
+						<li>
+							bay leaf
+						</li>
+						<li>
+							1/2 inch cinnamon stick
+						</li>
+						<li>
+							1 cardamom
+						</li>
+						<li>
+							1 small size onion
+						</li>
+						<li>
+							1/2 tomato
+						</li>
+						<li></li>
+
+					</ul>
+					<h2>How to make vegetable korma recipe:-</h2>
+					<br>
+					<p>
+						Take a pan add one tablespoon oil,onion,ginger,garlic,green chilli fry it till it get cooked.
+					</p>
+					<img src="vegKurmaPic/pic1.png" width="400" height="300" alt="vegkurma pic1">
+					<p>
+						Once it get cooked add coconute,poppy seeds,sesame seeds mix it and fry for 2-3 minutes then add coriander leavs,and let it cool down
+					</p>
+					<img src="vegKurmaPic/pic2.png" width="400" height="300" alt="vegkurma pic2">
+					<p>
+						Once it get cool down add it into a mixer jar then add tomato,garam masala,coriander powder then make a fine paste
+					</p>
+					<img src="vegKurmaPic/pic3.png" width="400" height="300" alt="vegkurma pic3">
+					<p>
+						This is how the paste looks like.
+					</p>
+					<img src="vegKurmaPic/pic4.png" width="400" height="300" alt="vegkurma pic4">
+					<p>
+						Keep a cooker on a stove and add oil then fry a paneer till get light brown
+					</p>
+					<img src="vegKurmaPic/pic5.png" width="400" height="300" alt="vegkurma pic5">
+					<p>
+						Once the paneer get fried take it outside and keep it aside.For the same oil add a ghee once it get heated add anise star,geera,bay leaf,cinnamon stick,cardamon fry it 5 secounds and then add onion and 1/2 tablespoon salt fry it till the onion cooked.
+					</p>
+					<img src="vegKurmaPic/pic6.png" width="400" height="300" alt="vegkurma pic6">
+					<p>
+						Once the onion cooked add all the vegetables and fry it for a while till it get half cook.
+					</p>
+					<img src="vegKurmaPic/pic7.png" width="400" height="300" alt="vegkurma pic7">
+					<p>
+						add a paste once the vegetables cooked and mix it well and fry for while
+					</p>
+					<img src="vegKurmaPic/pic8.png" width="400" height="300" alt="vegkurma pic8">
+					<p>
+						once the paste is get fry add yogurt and tomato and cook it till the tomato get soft.
+					</p>
+					<img src="vegKurmaPic/pic9.png" width="400" height="300" alt="vegkurma pic9">
+					<p>
+						add a water as required to cook vegetable and salt accrding to taste.
+					</p>
+					<img src="vegKurmaPic/pic10.png" width="400" height="300" alt="vegkurma pic10">
+					<p>
+						close the cooker and let it cook for two whisel or 15 minutes.
+					</p>
+					<img src="vegKurmaPic/pic11.png" width="400" height="300" alt="vegkurma pic11">
+					<p>
+						This is how it looks after two whisle. It's tasty and simple.You can have it with chapathi,naan or puri.
+					</p>
+					<img src="vegKurmaPic/pic12.png" width="400" height="300" alt="vegkurma pic12">
+					<br>
+
+				</div>
+			</div>
+			<div id="secoundHalf1">
+				<strong><em>Search:
+				<input type="text" name="Search">
+				</em></strong>
+				<br>
+				<br>
+				<h1>Latest Recipes:-</h1>
+				<hr>
+				<div id="recipeBox">
+					<a href="besanLadoo.shtml"><img src="images/BesanLaddu.jpg" width="330" height="315" alt="besan ladoo recipe"></a>
+						<h3>Besan Ladoo</h3>
+						<br>
+						<a href="sambhar.shtml"><img src="images/sambhar.jpg" width="330" height="315" alt="sambar recipe"></a>
+						<h3>Sambhar</h3>
+						<br>
+						<a href="kajuKatli.shtml"><img src="images/kajukatli.jpg" width="330" height="315" alt="kaju katli recipe"></a>
+						<h3>Kaju Katli</h3>
+						<br>
+				</div>
+			</div>
+		</div>
+	</body>
+
+</html>

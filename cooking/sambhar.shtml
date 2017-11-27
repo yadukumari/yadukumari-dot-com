@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Cooking Website</title>
+		<link rel="stylesheet" href="css/styles.css">
+	</head>
+
+	<body>
+		<div class="page" id = "index-file">
+			<!--#include file="header.html" -->
+			<!--#include file="nav.html" -->
+			<hr >
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<div id="side1">
+				<div id="box">
+					<h1>Simple Sambar Recipe</h1>
+
+					<h3>Ingredients(1 cup):</h3>
+					<ul>
+						<li>
+							1/2 cup tuvar dal(pigeon pea lentils)
+						</li>
+						<li>
+							1 to 1.5 cup cleaned and chopped vegitables like fresh beans, potato,onions,tomatoes
+						</li>
+						<li>
+							2-3 tablespoon tamarind water
+						</li>
+						<li>
+							1 to 1.5 tablespoon sambar powder
+						</li>
+						<li>
+							salt to taste
+						</li>
+						<li>
+							1/2 tablespoon turmeric powder
+						</li>
+					</ul>
+					<h2>For Tempering:</h2>
+					<ol>
+						<li>
+							1 tablespoon mustard seeds
+						</li>
+						<li>
+							1 tablespoon geera
+						</li>
+						<li>
+							3-5 curry leaves
+						</li>
+						<li>
+							fresh coriander leaves for garnish
+						</li>
+						<li>
+							pinch of asafoetida
+						</li>
+					</ol>
+					<h1>Instructions: </h1>
+					<br>
+					<ol>
+						<li>
+							In a pressure cooker add dal,2 to 3 cup water ,vegitables, turmeric powder and cook it for 2 whistles.
+						</li>
+						<li>
+							Once the pressure settles down on its own remove the lid and add sambar powder, tamarind again cook it till you get bubble.
+						</li>
+						<li>
+							According to taste add salt to it and cover.
+						</li>
+					</ol>
+					<h2>Tempering for sambar recipe:-</h2>
+					<ol>
+						<li>
+							in a small pan, heat oil and ghee. crackle the mustard seeds first
+						</li>
+						<li>
+							then add geera, asafoetida,curry leaves
+						</li>
+						<li>
+							fry 3-5 secounds and switch off the stove and add this into the sambar which we prepared like above.
+						</li>
+						<li>
+							Add chopped fresh coriander leaves
+						</li>
+					</ol>
+					<br>
+
+				</div>
+			</div>
+			<div id="secoundHalf1">
+				<strong><em>Search:
+				<input type="text" name="Search">
+				</em></strong>
+				<br>
+				<br>
+				<h1>Latest Recipes:-</h1>
+				<hr>
+				<div id="recipeBox">
+					<a href="besanLadoo.shtml"><img src="images/BesanLaddu.jpg" width="330" height="315" alt="besan ladoo recipe"></a>
+						<h3>Besan Ladoo</h3>
+						<br>
+						<a href="sambhar.shtml"><img src="images/sambhar.jpg" width="330" height="315" alt="sambar recipe"></a>
+						<h3>Sambhar</h3>
+						<br>
+						<a href="kajuKatli.shtml"><img src="images/kajukatli.jpg" width="330" height="315" alt="kaju katli recipe"></a>
+						<h3>Kaju Katli</h3>
+						<br>
+				</div>
+			</div>
+		</div>
+	</body>
+
+</html>

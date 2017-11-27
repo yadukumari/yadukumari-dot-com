@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Cooking Website</title>
+		<link rel="stylesheet" href="css/styles.css">
+	</head>
+
+	<body>
+		<div class="page" id = "cookingTip-file">
+			<!--#include file="header.html" -->
+			<!--#include file="nav.html" -->
+			<hr >
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<div id="side1">
+				<h1>Cooking Tips:-</h1>
+				<div id="box">
+
+					<dl>
+						<dt>
+							Milk Shake:-
+						</dt>
+						<dd>
+							You can prepare any friut milk shake at home using fresh fruits.Try to avoid artificial fruit flavour.You can replace sugar with jaggery.Add yogurt to get resturant style thickness.
+						</dd>
+						<dt>
+							Biryani:-
+						</dt>
+						<dd>
+							After it is cooked before serve add some ghee and mix it and serve
+						</dd>
+						<dt>
+							Paysa/keer:-
+						</dt>
+						<dd>
+							After it is cooked add koya/dry fruit powder to get that thickness and it gives nice taste.
+						</dd>
+						<dt>
+							Dal:-
+						</dt>
+						<dd>
+							While cook any dal add pinch of turmeric powder and 1 tablespoon oil
+						</dd>
+					</dl>
+					<br>
+
+				</div>
+			</div>
+			<div id="secoundHalf1">
+				<strong><em>Search:
+				<input type="text" name="Search">
+				</em></strong>
+				<br>
+				<br>
+				<h1>Latest Recipes:-</h1>
+				<hr>
+				<div id="recipeBox">
+					<a href="besanLadoo.shtml"><img src="images/BesanLaddu.jpg" width="330" height="315" alt="besan ladoo recipe"></a>
+					<h3>Besan Ladoo</h3>
+					<br>
+					<a href="sambhar.shtml"><img src="images/sambhar.jpg" width="330" height="315" alt="sambar recipe"></a>
+					<h3>Sambhar</h3>
+					<br>
+					<a href="kajuKatli.shtml"><img src="images/kajukatli.jpg" width="330" height="315" alt="kaju katli recipe"></a>
+					<h3>Kaju Katli</h3>
+					<br>
+				</div>
+			</div>
+		</div>
+	</body>
+
+</html>
